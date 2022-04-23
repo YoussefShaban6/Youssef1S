@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youssef1S
 - 👀 I’m interested in computer science and software engineering
 - 🌱 I’m currently learning Web development
-- 📫 How to reach me:
+- 📫 How to reach me via:
   - Contact with me: yosifshaban6@gmail.com
   - phone: +201024275973
 
